@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Arquivos de ambiente
+.env
+
+# Logs
+*.log
+
+# Pasta de cache
+.cache/
+
+# Editor
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
