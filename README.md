@@ -19,6 +19,12 @@ Rodando o Back End (Servidor)
    >``npm install``
 4. Rodar o servidor
    >``npm run dev``
+   
+👤 Desenvolvedor
+
+Cícero Rogério Fernandes Ramos
+
+Projeto individual realizado para avaliação final da disciplina
 
 Configurando o BD
 
